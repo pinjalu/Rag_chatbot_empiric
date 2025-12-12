@@ -1,0 +1,737 @@
+Ab.Money - A Meditation App Built with FlutterFlow
+
+The success story of Ab.Money - a Meditation app built with FlutterFlow. Learn how FlutterFlow helps Ab Money achieve over $100,000 in revenue.
+
+
+Development Services
+
+Software Development
+
+Web Development
+
+Mobile App Development
+
+UI/UX Design
+
+Staff Augmentation
+
+Blockchain Development
+
+AI Services
+
+AI Automation Services
+
+n8n Workflow Automation
+
+AI Agent Development
+
+Voice AI Agent Development
+
+ChatBot Development
+
+Generative AI Development
+
+
+On-time delivery
+
+Agile methodology
+
+Cost-effective solutions
+
+Front-end
+
+Hire React.js Developers
+
+Hire Next.js Developers
+
+Hire Vue.js Developers
+
+Hire Angular Developers
+
+Back-end
+
+Hire Python Developers
+
+Hire Django Developers
+
+Hire Flask Developers
+
+Hire Node.js Developers
+
+Full Stack Developer
+
+Hire Full Stack Developers
+
+Hire Blockchain Developers
+
+Hire MERN Stack Developers
+
+Hire MEAN Stack Developers
+
+Mobile
+
+Hire Flutter Developers
+
+Hire FlutterFlow Developers
+
+Hire Android Developers
+
+Hire iOS Developers
+
+Other
+
+Hire Dedicated Developers
+
+Hire Software Developers
+
+Hire Web Developers
+
+Hire UI/UX Designers
+
+Skilled and experienced developers
+
+100% Transparency
+
+Flexible hiring models
+
+Harness the Full Potential of Your Business
+
+“Hire Us Now!”
+
+
+About Us
+
+Portfolio
+
+Brochure
+
+Blogs
+
+Career
+
+FAQs
+
+
+Business Query
+
++91 7862 920292
+
+inquire@empiricinfotech.com
+
+Submit Inquiry
+
+HR & Employment Verification
+
++91 6355 158315
+
+hr@empiricinfotech.com
+
+Apply for Job
+
+Current Openings
+
+Apply Now
+
+One Stop Solution - Mobile, Web & NFT Development
+
+Ab.Money - A Meditation App Built with FlutterFlow
+
+
+Blogs
+
+Mobile App Development
+
+Published Date:
+
+July 11, 2024
+
+Table of Content
+
+Project Overview
+
+Ab.Money is a free meditation and mindset app created by Alexandra Belliakova, also known as Sasha Belaire. It aims to help users improve their mental well-being through guided meditations and mindset exercises. The app is available on both the App Store and Google Play Store, offering content in English and Russian to cater to a diverse audience.
+
+Development Journey
+
+Initially developed using another no-code tool, Ab.Money faced scalability issues as its user base grew. To overcome these challenges and enhance the app's capabilities, the decision was made to switch to FlutterFlow. Within just two months, from February 2022 to March 2022, the app was successfully rebuilt and launched using FlutterFlow.
+
+Key Features of AB Money App
+
+Bilingual Support
+
+Ab.Money offers unique features in both English and Russian, tailored to meet the needs of its diverse users.
+
+Platform Availability
+
+The app is available on both the
+
+App Store
+
+and
+
+Google Play Store
+
+, making it accessible to a wide range of users.
+
+User-Centric Design
+
+The app includes original meditations by Sasha Belaire, custom audio players, video courses for Russian users, daily tarot cards, affirmations, and multiple diaries for tracking emotions and goals.
+
+The Decision to Switch to FlutterFlow
+
+In 2021, Alexandra's team approached the development team to build Ab.Money. After releasing several versions with another tool and encountering scalability issues, they switched to FlutterFlow. This tool offered:
+
+Rapid Development
+
+: The team rebuilt the app in just two months.
+
+Enhanced Functionality
+
+: FlutterFlow provided custom functions, seamless integration with third-party software, and the ability to add unique features.
+
+Scalability
+
+: FlutterFlow's capabilities allowed the app to handle a larger user base effectively.
+
+Implementation and Customization
+
+The team leveraged FlutterFlow's native features to build 80-90% of Ab.Money's functionalities, using custom actions and widgets to create a unique user experience. Key features include:
+
+Conditional Visibility
+
+: Tailored content and features for specific user groups.
+
+Custom Audio Player and Video Courses
+
+: Enhanced media functionality for users.
+
+Affirmations and Tarot Cards
+
+: Daily motivational features using FlutterFlow's random data generator.
+
+Diary Features
+
+: Multiple diaries for users to document their progress and goals, with data managed through Firebase.
+
+Results and Future Prospects
+
+The app has achieved significant success, including:
+
+High User Ratings
+
+: A 4.8 rating on the App Store and a perfect 5.0 rating on the Google Play Store.
+
+Widespread Use
+
+: Over 250,000 users and counting.
+
+Revenue
+
+: Over $100,000 in client-reported revenue.
+
+Top Ranking
+
+: First place in the education category in the App Store for Eastern Europe.
+
+Conclusion
+
+Ab.Money's success story highlights the potential of FlutterFlow in developing high-quality, scalable apps quickly and efficiently. If you're looking to develop a mobile app, our
+
+FlutterFlow development services
+
+can help bring your vision to life.
+
+Ready to start your own app development journey? Contact us today to learn more about how we can help you build your next app with FlutterFlow.
+
+Schedule a FREE Consultation Now
+
+Table of Content
+
+Project Overview
+
+Development Journey
+
+Key Features of AB Money App
+
+Bilingual Support
+
+Platform Availability
+
+User-Centric Design
+
+The Decision to Switch to FlutterFlow
+
+Implementation and Customization
+
+Results and Future Prospects
+
+Conclusion
+
+Hire trusted developers that fit your needs
+
+Hire Developer
+
+Related Blogs
+
+March 28, 2025
+
+Why FlutterFlow is the Future of App Development for European Startups
+
+Read Full Article
+
+November 25, 2024
+
+How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025
+
+Read Full Article
+
+November 18, 2024
+
+Hire a FlutterFlow Developer for MVP Development
+
+Read Full Article
+
+November 13, 2024
+
+How to Develop a Telemedicine App Like Teladoc in 2025
+
+Read Full Article
+
+November 18, 2024
+
+Hire a FlutterFlow Developer for MVP Development
+
+Read Full Article
+
+November 13, 2024
+
+How to Develop a Telemedicine App Like Teladoc in 2025
+
+Read Full Article
+
+March 28, 2025
+
+Why FlutterFlow is the Future of App Development for European Startups
+
+Read Full Article
+
+November 25, 2024
+
+How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025
+
+Read Full Article
+
+November 18, 2024
+
+Hire a FlutterFlow Developer for MVP Development
+
+Read Full Article
+
+November 13, 2024
+
+How to Develop a Telemedicine App Like Teladoc in 2025
+
+Read Full Article
+
+March 28, 2025
+
+Why FlutterFlow is the Future of App Development for European Startups
+
+Read Full Article
+
+November 25, 2024
+
+How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025
+
+Read Full Article
+
+November 18, 2024
+
+Hire a FlutterFlow Developer for MVP Development
+
+Read Full Article
+
+November 13, 2024
+
+How to Develop a Telemedicine App Like Teladoc in 2025
+
+Read Full Article
+
+View All Blogs
+
+GET A QUOTE NOW
+
+Tell us about your challenges, and we’ll come up with a viable solution!
+
+GET A QUOTE NOW
+
+Tell us about your challenges, and we’ll come up with a viable solution!
+
+Your Name
+
+Email
+
+Your Phone
+
+Phone
+
+Upload File
+
+Project
+
+Submit
+
+
+Software Development
+
+Web Development
+
+Blockchain Development
+
+Mobile App Development
+
+Staff Augmentation
+
+UI/UX Design
+
+Ai Automation Services
+
+n8n Workflow Automation
+
+Ai Agent Development
+
+Voice Agent Development
+
+Chatbot Development
+
+Generative AI Development
+
+
+Software Development
+
+Web Development
+
+Blockchain Development
+
+Mobile App Development
+
+Staff Augmentation
+
+UI/UX Design
+
+Ai Automation Services
+
+n8n Workflow Automation
+
+Ai Agent Development
+
+Voice Agent Development
+
+Chatbot Development
+
+Generative AI Development
+
+Hire
+
+Hire Full Stack Developers
+
+Hire Blockchain Developers
+
+Hire Python Developers
+
+Hire Django Developers
+
+Hire Node.js Developers
+
+Hire Next.js Developers
+
+Hire ReactJS Developers
+
+Hire AngularJS Developers
+
+Hire Flutter Developers
+
+Hire FlutterFlow Developers
+
+Hire UI/UX Designers
+
+Hires
+
+Hire Full Stack Developers
+
+Hire Blockchain Developers
+
+Hire Python Developers
+
+Hire Django Developers
+
+Hire Node.js Developers
+
+Hire Next.js Developers
+
+Hire ReactJS Developers
+
+Hire AngularJS Developers
+
+Hire Flutter Developers
+
+Hire FlutterFlow Developers
+
+Hire UI/UX Designers
+
+About
+
+About Us
+
+Portfolio
+
+Brochure
+
+Blogs
+
+Career
+
+FAQs
+
+About
+
+About Us
+
+Portfolio
+
+Brochure
+
+Blogs
+
+Career
+
+FAQs
+
+
+Business Query
+
++91 7862 920292
+
+inquire@empiricinfotech.com
+
+HR & Employment Verification
+
++91 6355 158315
+
+hr@empiricinfotech.com
+
+
+Apply Here
+
+Address
+
+305, Sumerru Business Corner, Near Rajhans Multiplex, Pal RTO, Surat, Gujarat - 395009
+
+Contact With Us
+
+Copyright ©
+
+2025
+
+. All Rights Reserved by
+
+Empiric Infotech LLP
+
+Privacy Policy
+
+Sitemap
+
+Cookie Settings
+
+We use cookies to enhance your experience
+
+We use cookies and similar technologies to help personalize content, provide social media features, and analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners.
+
+Read our
+
+Privacy Policy
+
+Customize
+
+Accept All
+
+
+---
+
+Links:
+[Site Logo](https://empiricinfotech.com/)
+[Home](https://empiricinfotech.com/)
+[Book a Free Consultation](https://calendly.com/jaypal-b/30min)
+[Software Development](https://empiricinfotech.com/services/software-development-agency)
+[Web Development](https://empiricinfotech.com/services/web-development-company)
+[Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+[UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+[Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+[Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+[AI Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+[n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+[AI Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+[Voice AI Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+[ChatBot Development](https://empiricinfotech.com/services/chatbot-development)
+[Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+[Let's build it togetherContact Us](https://empiricinfotech.com/contact-us#contact_us_form)
+[Hire React.js Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+[Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+[Hire Vue.js Developers](https://empiricinfotech.com/hire/hire-vuejs-developers)
+[Hire Angular Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+[Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+[Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+[Hire Flask Developers](https://empiricinfotech.com/hire/hire-flask-developers)
+[Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+[Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+[Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+[Hire MERN Stack Developers](https://empiricinfotech.com/hire/hire-mern-stack-developers)
+[Hire MEAN Stack Developers](https://empiricinfotech.com/hire/hire-mean-stack-developers)
+[Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+[Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+[Hire Android Developers](https://empiricinfotech.com/hire/hire-android-developers)
+[Hire iOS Developers](https://empiricinfotech.com/hire/hire-ios-developers)
+[Hire Dedicated Developers](https://empiricinfotech.com/hire/hire-dedicated-developers)
+[Hire Software Developers](https://empiricinfotech.com/hire/hire-software-developers)
+[Hire Web Developers](https://empiricinfotech.com/hire/hire-freelance-web-developers)
+[Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+[“Hire Us Now!”](https://calendly.com/jaypal-b/30min)
+[About Us](https://empiricinfotech.com/about-us)
+[Portfolio](https://empiricinfotech.com/portfolio)
+[Brochure](https://empiricinfotech.com/brochure)
+[Blogs](https://empiricinfotech.com/blogs)
+[Career](https://empiricinfotech.com/career)
+[FAQs](https://empiricinfotech.com/faqs)
+[+91 7862 920292](https://wa.me/7862920292)
+[inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+[Submit Inquiry](/contact-us#contact_us_form)
+[+91 6355 158315](https://wa.me/6355158315)
+[hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+[Apply for Job](/contact-us#career_form)
+[Current OpeningsApply Now](/career#current-opening)
+[Home](/)
+[Blogs](/blogs)
+[App Store](https://apps.apple.com/in/app/ab-money-meditation-breath/id1567820703)
+[Google Play Store](https://play.google.com/store/apps/details?id=agency.ab.money)
+[FlutterFlow development services](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+[Schedule a FREE Consultation Now](https://calendly.com/jaypal-b/30min)
+[Hire Developer](https://calendly.com/jaypal-b/30min)
+[Why FlutterFlow is the Future of App Development for European Startups](/blogs/flutterflow-future-app-development-european-startups)
+[Why FlutterFlow is the Future of App Development for European Startups](/blogs/flutterflow-future-app-development-european-startups)
+[Read Full Article](/blogs/flutterflow-future-app-development-european-startups)
+[How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025](/blogs/how-to-run-plaid-on-flutterflow)
+[How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025](/blogs/how-to-run-plaid-on-flutterflow)
+[Read Full Article](/blogs/how-to-run-plaid-on-flutterflow)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Read Full Article](/blogs/flutterflow-developer-for-mvp-development)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[Read Full Article](/blogs/develop-telemedicine-app-like-teladoc)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Read Full Article](/blogs/flutterflow-developer-for-mvp-development)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[Read Full Article](/blogs/develop-telemedicine-app-like-teladoc)
+[Why FlutterFlow is the Future of App Development for European Startups](/blogs/flutterflow-future-app-development-european-startups)
+[Why FlutterFlow is the Future of App Development for European Startups](/blogs/flutterflow-future-app-development-european-startups)
+[Read Full Article](/blogs/flutterflow-future-app-development-european-startups)
+[How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025](/blogs/how-to-run-plaid-on-flutterflow)
+[How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025](/blogs/how-to-run-plaid-on-flutterflow)
+[Read Full Article](/blogs/how-to-run-plaid-on-flutterflow)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Read Full Article](/blogs/flutterflow-developer-for-mvp-development)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[Read Full Article](/blogs/develop-telemedicine-app-like-teladoc)
+[Why FlutterFlow is the Future of App Development for European Startups](/blogs/flutterflow-future-app-development-european-startups)
+[Why FlutterFlow is the Future of App Development for European Startups](/blogs/flutterflow-future-app-development-european-startups)
+[Read Full Article](/blogs/flutterflow-future-app-development-european-startups)
+[How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025](/blogs/how-to-run-plaid-on-flutterflow)
+[How to Run Plaid on FlutterFlow - Step-by-Step Guide 2025](/blogs/how-to-run-plaid-on-flutterflow)
+[Read Full Article](/blogs/how-to-run-plaid-on-flutterflow)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Hire a FlutterFlow Developer for MVP Development](/blogs/flutterflow-developer-for-mvp-development)
+[Read Full Article](/blogs/flutterflow-developer-for-mvp-development)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[How to Develop a Telemedicine App Like Teladoc in 2025](/blogs/develop-telemedicine-app-like-teladoc)
+[Read Full Article](/blogs/develop-telemedicine-app-like-teladoc)
+[View All Blogs](/blogs)
+[Software Development](https://empiricinfotech.com/services/software-development-agency)
+[Web Development](https://empiricinfotech.com/services/web-development-company)
+[Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+[Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+[Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+[UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+[Ai Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+[n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+[Ai Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+[Voice Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+[Chatbot Development](https://empiricinfotech.com/services/chatbot-development)
+[Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+[Software Development](/services/software-development-agency)
+[Web Development](/services/web-development-company)
+[Blockchain Development](/services/blockchain-development-company)
+[Mobile App Development](/services/mobile-app-development-company)
+[Staff Augmentation](/services/staff-augmentation)
+[UI/UX Design](/services/ui-ux-design-services)
+[Ai Automation Services](/services/ai-automation-services)
+[n8n Workflow Automation](/services/n8n-workflow-automation)
+[Ai Agent Development](/services/ai-agent-development)
+[Voice Agent Development](/services/voice-agent-development)
+[Chatbot Development](/services/chatbot-development)
+[Generative AI Development](/services/generative-ai-development)
+[Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+[Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+[Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+[Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+[Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+[Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+[Hire ReactJS Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+[Hire AngularJS Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+[Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+[Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+[Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+[Hire Full Stack Developers](/hire/hire-full-stack-developers)
+[Hire Blockchain Developers](/hire/hire-blockchain-developers)
+[Hire Python Developers](/hire/hire-python-developers)
+[Hire Django Developers](/hire/hire-django-developers)
+[Hire Node.js Developers](/hire/hire-nodejs-developers)
+[Hire Next.js Developers](/hire/hire-nextjs-developers)
+[Hire ReactJS Developers](/hire/hire-reactjs-developers)
+[Hire AngularJS Developers](/hire/hire-angular-developers)
+[Hire Flutter Developers](/hire/hire-flutter-developers)
+[Hire FlutterFlow Developers](/hire/hire-flutterflow-developers)
+[Hire UI/UX Designers](/hire/hire-ui-ux-designers)
+[About Us](https://empiricinfotech.com/about-us)
+[Portfolio](https://empiricinfotech.com/portfolio)
+[Brochure](https://empiricinfotech.com/brochure)
+[Blogs](https://empiricinfotech.com/blogs)
+[Career](https://empiricinfotech.com/career)
+[FAQs](https://empiricinfotech.com/faqs)
+[About Us](/about-us)
+[Portfolio](/portfolio)
+[Brochure](/brochure)
+[Blogs](/blogs)
+[Career](/career)
+[FAQs](/faqs)
+[+91 7862 920292](https://wa.me/7862920292)
+[inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+[+91 6355 158315](https://wa.me/6355158315)
+[hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+[Contact Us](https://empiricinfotech.com/contact-us#contact_us_form)
+[Apply Here](https://empiricinfotech.com/contact-us#career_form)
+[305, Sumerru Business Corner, Near Rajhans Multiplex, Pal RTO, Surat, Gujarat - 395009](https://goo.gl/maps/qmX6PTHdv1yBQ7d9A)
+[Top Clutch Software Developers Utilities India](https://clutch.co/profile/empiric-infotech-llp#highlights)
+[Top Clutch Metaverse Development Company India 2023](https://clutch.co/profile/empiric-infotech-llp#highlights)
+[Linkedin](https://www.linkedin.com/company/empiric-infotech)
+[Instagram](https://www.instagram.com/empiricinfotech)
+[Facebook](https://www.facebook.com/empiricinfotech)
+[Twitter](https://twitter.com/EmpiricInfotech)
+[behance](https://www.behance.net/empiricinfotechllp)
+[dribbble](https://dribbble.com/EmpiricInfotechLLP)
+[Privacy Policy](/privacy-policy)
+[Sitemap](/empiric-sitemap)
+[Privacy Policy](/privacy-policy)

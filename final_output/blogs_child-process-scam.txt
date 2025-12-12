@@ -1,0 +1,781 @@
+The "child_process" Scam: Beware of Forked Packages
+
+This article deeply discusses the "child_process" scam, analyzing its mechanics, potential consequences, and most importantly, how to protect yourself from such threats.
+
+
+Development Services
+
+Software Development
+
+Web Development
+
+Mobile App Development
+
+UI/UX Design
+
+Staff Augmentation
+
+Blockchain Development
+
+AI Services
+
+AI Automation Services
+
+n8n Workflow Automation
+
+AI Agent Development
+
+Voice AI Agent Development
+
+ChatBot Development
+
+Generative AI Development
+
+
+On-time delivery
+
+Agile methodology
+
+Cost-effective solutions
+
+Front-end
+
+Hire React.js Developers
+
+Hire Next.js Developers
+
+Hire Vue.js Developers
+
+Hire Angular Developers
+
+Back-end
+
+Hire Python Developers
+
+Hire Django Developers
+
+Hire Flask Developers
+
+Hire Node.js Developers
+
+Full Stack Developer
+
+Hire Full Stack Developers
+
+Hire Blockchain Developers
+
+Hire MERN Stack Developers
+
+Hire MEAN Stack Developers
+
+Mobile
+
+Hire Flutter Developers
+
+Hire FlutterFlow Developers
+
+Hire Android Developers
+
+Hire iOS Developers
+
+Other
+
+Hire Dedicated Developers
+
+Hire Software Developers
+
+Hire Web Developers
+
+Hire UI/UX Designers
+
+Skilled and experienced developers
+
+100% Transparency
+
+Flexible hiring models
+
+Harness the Full Potential of Your Business
+
+“Hire Us Now!”
+
+
+About Us
+
+Portfolio
+
+Brochure
+
+Blogs
+
+Career
+
+FAQs
+
+
+Business Query
+
++91 7862 920292
+
+inquire@empiricinfotech.com
+
+Submit Inquiry
+
+HR & Employment Verification
+
++91 6355 158315
+
+hr@empiricinfotech.com
+
+Apply for Job
+
+Current Openings
+
+Apply Now
+
+One Stop Solution - Mobile, Web & NFT Development
+
+The "child_process" Scam: Beware of Forked Packages
+
+
+Blogs
+
+Web Development
+
+Published Date:
+
+April 30, 2024
+
+Table of Content
+
+Imagine you're a developer, building something cool. You need a tool to run other programs from your code. So you head to open-source libraries that are readily available packages.
+
+However this ecosystem fosters innovation and efficiency, but it also creates vulnerabilities that malicious actors can exploit. The recent "child_process" scam on the npm registry serves as a stark reminder of the importance of vigilance and security best practices.
+
+This article deeply discusses the "child_process" scam, analyzing its mechanics, potential consequences, and most importantly, how to protect yourself from such threats.
+
+Understanding the childprocess Package - Legitimate One
+
+The legitimate "childprocess" package is a core module within the Node.js environment. It empowers developers to spawn child processes, allowing them to execute external programs or scripts from within their Node.js application. This functionality proves invaluable for various tasks, including:
+
+=> Launching system commands
+
+=> Running background processes
+
+=> Interacting with external programs
+
+But some sneaky people made a fake "child_process" that looked just like the real one. This fake tool could have done some nasty things:
+
+The Malicious Twist - Fake child_process packages
+
+Deceptive actors capitalized on the recognition of the "childprocess" name by publishing malicious packages under the same moniker. These fake packages, despite appearing legitimate at first glance, harbored nefarious functionalities. Here's what we know about the potential threats:
+
+Social Engineering
+
+The familiar name likely tricked developers into installing the malicious package, assuming it was the standard "childprocess" module. This tactic plays on human trust and the fast-paced nature of software development.
+
+Hidden Malicious Code
+
+The true purpose of the fake package could have been to conduct malicious activities on the unsuspecting developer's system. Potential actions might have included:
+
+System Scanning:
+
+The package could have scanned the system for sensitive information like file structures, software versions, or even network configurations.
+
+Environment Variable Theft
+
+: Environment variables often store critical details like API keys or database credentials. The fake package could have extracted this valuable information.
+
+Private Key Extraction:
+
+In a worst-case scenario, the malicious code might have targeted private keys used for digital signatures or secure connections.
+
+Thankfully, npm, the primary package manager for Node.js, has removed the malicious "child_process" packages. However, this doesn't guarantee complete safety.
+
+Source -
+
+https://www.npmjs.com/package/child_process
+
+Source -
+
+https://github.com/npm/security-holder#readme
+
+The Forking Threat - Why Vigilance Remains Crucial
+
+While the original malicious package might be gone, the threat of forked versions persists. Forking, in the context of npm packages, allows developers to create their own versions based on existing code. Unfortunately, malicious actors can exploit this feature by forking a legitimate package and injecting harmful code.
+
+Here's why vigilance remains crucial:
+
+Unpredictable Content:
+
+Forked versions, especially those from untrusted sources, can contain hidden malicious code. This code could execute upon installation, potentially compromising the system.
+
+Difficult Detection:
+
+Forked packages often retain the original name, making them difficult to distinguish from the legitimate version. This lack of clear differentiation increases the risk of accidental installation.
+
+How Scammers Reach Out
+
+These same scammers might also try to target you directly. Here are a couple of red flags to watch out for:
+
+Tempting Offers on LinkedIn:
+
+A stranger contacts you on LinkedIn with a seemingly perfect project. They might offer a high fee and ask you to run their code, which could be a malicious package in disguise.
+
+Shady Source Code on Freelancer Platforms:
+
+On platforms like Upwork or Freelancer, someone might share a public Github repo, Google Drive link, or a zip file containing source code and ask you to run the app. This code could harbor hidden dangers.
+
+Be Mindful of Dependencies or Fork packages
+
+Before incorporating any dependency into your project, take a moment to research its origin, reputation, and the code it includes. This vigilance can help you avoid unknowingly introducing vulnerabilities into your application.
+
+For a complete list of fork packages directly dependent on "child_process," you can refer to the official npm page linked here:
+
+https://www.npmjs.com/package/child_process?activeTab=dependents
+
+Safeguarding Yourself - Best Practices to Mitigate Risks
+
+There are several ways developers and IT professionals can protect themselves from falling prey to malicious package scams:
+
+Scrutinize Before Installing:
+
+Don't blindly trust package names. Take the time to read the package.json file associated with any dependency. Look for inconsistencies or unfamiliar details in the description, author information, or dependencies listed.
+
+Research Package Reputation:
+
+Before installing a package, especially one with a common name like "child_process", conduct a quick online search. Look for reviews, documentation, and community discussions about the package. A well-maintained package with a positive reputation is a safer bet.
+
+Consider Alternatives:
+
+For functionalities similar to the "child_process" module, explore established and well-regarded alternatives. Popular options include execa or cross-spawn. These packages offer similar features while undergoing stricter security reviews.
+
+Review Code Execution:
+
+Be cautious of code that executes shell commands. Always understand the specific command being used and its potential security implications. Consider safer alternatives like dedicated libraries for interacting with external programs.
+
+Maintain Updated Dependencies:
+
+Keep your project's dependencies up-to-date. Patch updates often address security vulnerabilities discovered in older versions. Utilize tools like npm audit to identify outdated or potentially risky dependencies.
+
+Implement Multi-Factor Authentication (MFA):
+
+Enforce multi-factor authentication on your npm account. This adds an extra layer of security by requiring a second verification step beyond just your password in order to publish or install packages.
+
+Stay Informed:
+
+Keep yourself updated on the latest security threats within the npm ecosystem. Subscribe to reliable security blogs or forums to stay informed about vulnerabilities and malicious packages. Reporting suspicious activity to the npm security team also plays a crucial role in keeping the community safe.
+
+Beyond npm - Holistic Security Measures
+
+While the focus of this article has been on the npm registry, security best practices extend beyond a single package manager. Here are some additional considerations:
+
+Secure Coding Practices:
+
+Adhere to secure coding principles throughout your development process. This includes input validation, proper error handling, and avoiding practices that could introduce vulnerabilities like SQL injection or cross-site scripting (XSS).
+
+Code Reviews:
+
+Implement code review procedures within your development team. This allows for peer scrutiny of code and helps identify potential security issues before deployment.
+
+Regular System Audits:
+
+Conduct periodic security audits of your development environment and systems. These audits can help detect vulnerabilities and misconfigurations that could be exploited by malicious actors.
+
+Also read:
+
+Goheard keylogger App Scam
+
+Conclusion
+
+The "child_process" scam is just one example. By combining these practices with the npm-specific recommendations outlined earlier, developers and IT professionals can create a robust security posture that minimizes the risk of falling victim to package scams and other cyber threats. Stay aware and stay safe.
+
+Table of Content
+
+Understanding the childprocess Package - Legitimate One
+
+The Malicious Twist - Fake child_process packages
+
+Social Engineering
+
+Hidden Malicious Code
+
+The Forking Threat - Why Vigilance Remains Crucial
+
+How Scammers Reach Out
+
+Be Mindful of Dependencies or Fork packages
+
+Safeguarding Yourself - Best Practices to Mitigate Risks
+
+Beyond npm - Holistic Security Measures
+
+Conclusion
+
+Hire trusted developers that fit your needs
+
+Hire Developer
+
+Related Blogs
+
+December 04, 2024
+
+Why Flask is the Perfect Framework for Startups?
+
+Read Full Article
+
+July 29, 2024
+
+Web Development with Frameworks Like Django and Flask
+
+Read Full Article
+
+June 28, 2024
+
+7 Popular Real-World Projects You Can Build Using Flask
+
+Read Full Article
+
+June 20, 2024
+
+Comprehensive Guide to Hire Flask Developers in 2024
+
+Read Full Article
+
+June 28, 2024
+
+7 Popular Real-World Projects You Can Build Using Flask
+
+Read Full Article
+
+June 20, 2024
+
+Comprehensive Guide to Hire Flask Developers in 2024
+
+Read Full Article
+
+December 04, 2024
+
+Why Flask is the Perfect Framework for Startups?
+
+Read Full Article
+
+July 29, 2024
+
+Web Development with Frameworks Like Django and Flask
+
+Read Full Article
+
+June 28, 2024
+
+7 Popular Real-World Projects You Can Build Using Flask
+
+Read Full Article
+
+June 20, 2024
+
+Comprehensive Guide to Hire Flask Developers in 2024
+
+Read Full Article
+
+December 04, 2024
+
+Why Flask is the Perfect Framework for Startups?
+
+Read Full Article
+
+July 29, 2024
+
+Web Development with Frameworks Like Django and Flask
+
+Read Full Article
+
+June 28, 2024
+
+7 Popular Real-World Projects You Can Build Using Flask
+
+Read Full Article
+
+June 20, 2024
+
+Comprehensive Guide to Hire Flask Developers in 2024
+
+Read Full Article
+
+View All Blogs
+
+GET A QUOTE NOW
+
+Tell us about your challenges, and we’ll come up with a viable solution!
+
+GET A QUOTE NOW
+
+Tell us about your challenges, and we’ll come up with a viable solution!
+
+Your Name
+
+Email
+
+Your Phone
+
+Phone
+
+Upload File
+
+Project
+
+Submit
+
+
+Software Development
+
+Web Development
+
+Blockchain Development
+
+Mobile App Development
+
+Staff Augmentation
+
+UI/UX Design
+
+Ai Automation Services
+
+n8n Workflow Automation
+
+Ai Agent Development
+
+Voice Agent Development
+
+Chatbot Development
+
+Generative AI Development
+
+
+Software Development
+
+Web Development
+
+Blockchain Development
+
+Mobile App Development
+
+Staff Augmentation
+
+UI/UX Design
+
+Ai Automation Services
+
+n8n Workflow Automation
+
+Ai Agent Development
+
+Voice Agent Development
+
+Chatbot Development
+
+Generative AI Development
+
+Hire
+
+Hire Full Stack Developers
+
+Hire Blockchain Developers
+
+Hire Python Developers
+
+Hire Django Developers
+
+Hire Node.js Developers
+
+Hire Next.js Developers
+
+Hire ReactJS Developers
+
+Hire AngularJS Developers
+
+Hire Flutter Developers
+
+Hire FlutterFlow Developers
+
+Hire UI/UX Designers
+
+Hires
+
+Hire Full Stack Developers
+
+Hire Blockchain Developers
+
+Hire Python Developers
+
+Hire Django Developers
+
+Hire Node.js Developers
+
+Hire Next.js Developers
+
+Hire ReactJS Developers
+
+Hire AngularJS Developers
+
+Hire Flutter Developers
+
+Hire FlutterFlow Developers
+
+Hire UI/UX Designers
+
+About
+
+About Us
+
+Portfolio
+
+Brochure
+
+Blogs
+
+Career
+
+FAQs
+
+About
+
+About Us
+
+Portfolio
+
+Brochure
+
+Blogs
+
+Career
+
+FAQs
+
+
+Business Query
+
++91 7862 920292
+
+inquire@empiricinfotech.com
+
+HR & Employment Verification
+
++91 6355 158315
+
+hr@empiricinfotech.com
+
+
+Apply Here
+
+Address
+
+305, Sumerru Business Corner, Near Rajhans Multiplex, Pal RTO, Surat, Gujarat - 395009
+
+Contact With Us
+
+Copyright ©
+
+2025
+
+. All Rights Reserved by
+
+Empiric Infotech LLP
+
+Privacy Policy
+
+Sitemap
+
+Cookie Settings
+
+We use cookies to enhance your experience
+
+We use cookies and similar technologies to help personalize content, provide social media features, and analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners.
+
+Read our
+
+Privacy Policy
+
+Customize
+
+Accept All
+
+
+---
+
+Links:
+[Site Logo](https://empiricinfotech.com/)
+[Home](https://empiricinfotech.com/)
+[Book a Free Consultation](https://calendly.com/jaypal-b/30min)
+[Software Development](https://empiricinfotech.com/services/software-development-agency)
+[Web Development](https://empiricinfotech.com/services/web-development-company)
+[Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+[UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+[Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+[Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+[AI Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+[n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+[AI Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+[Voice AI Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+[ChatBot Development](https://empiricinfotech.com/services/chatbot-development)
+[Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+[Let's build it togetherContact Us](https://empiricinfotech.com/contact-us#contact_us_form)
+[Hire React.js Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+[Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+[Hire Vue.js Developers](https://empiricinfotech.com/hire/hire-vuejs-developers)
+[Hire Angular Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+[Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+[Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+[Hire Flask Developers](https://empiricinfotech.com/hire/hire-flask-developers)
+[Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+[Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+[Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+[Hire MERN Stack Developers](https://empiricinfotech.com/hire/hire-mern-stack-developers)
+[Hire MEAN Stack Developers](https://empiricinfotech.com/hire/hire-mean-stack-developers)
+[Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+[Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+[Hire Android Developers](https://empiricinfotech.com/hire/hire-android-developers)
+[Hire iOS Developers](https://empiricinfotech.com/hire/hire-ios-developers)
+[Hire Dedicated Developers](https://empiricinfotech.com/hire/hire-dedicated-developers)
+[Hire Software Developers](https://empiricinfotech.com/hire/hire-software-developers)
+[Hire Web Developers](https://empiricinfotech.com/hire/hire-freelance-web-developers)
+[Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+[“Hire Us Now!”](https://calendly.com/jaypal-b/30min)
+[About Us](https://empiricinfotech.com/about-us)
+[Portfolio](https://empiricinfotech.com/portfolio)
+[Brochure](https://empiricinfotech.com/brochure)
+[Blogs](https://empiricinfotech.com/blogs)
+[Career](https://empiricinfotech.com/career)
+[FAQs](https://empiricinfotech.com/faqs)
+[+91 7862 920292](https://wa.me/7862920292)
+[inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+[Submit Inquiry](/contact-us#contact_us_form)
+[+91 6355 158315](https://wa.me/6355158315)
+[hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+[Apply for Job](/contact-us#career_form)
+[Current OpeningsApply Now](/career#current-opening)
+[Home](/)
+[Blogs](/blogs)
+[https://www.npmjs.com/package/child_process](https://www.npmjs.com/package/child_process)
+[https://github.com/npm/security-holder#readme](https://github.com/npm/security-holder#readme)
+[https://www.npmjs.com/package/child_process?activeTab=dependents](https://www.npmjs.com/package/child_process?activeTab=dependents)
+[Goheard keylogger App Scam](https://empiricinfotech.com/blogs/goheard-keylogger-app-scam/46)
+[Hire Developer](https://calendly.com/jaypal-b/30min)
+[Why Flask is the Perfect Framework for Startups?](/blogs/flask-for-startups)
+[Why Flask is the Perfect Framework for Startups?](/blogs/flask-for-startups)
+[Read Full Article](/blogs/flask-for-startups)
+[Web Development with Frameworks Like Django and Flask](/blogs/web-development-with-django-and-flask)
+[Web Development with Frameworks Like Django and Flask](/blogs/web-development-with-django-and-flask)
+[Read Full Article](/blogs/web-development-with-django-and-flask)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[Read Full Article](/blogs/flask-project-ideas)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Read Full Article](/blogs/hire-flask-developers)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[Read Full Article](/blogs/flask-project-ideas)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Read Full Article](/blogs/hire-flask-developers)
+[Why Flask is the Perfect Framework for Startups?](/blogs/flask-for-startups)
+[Why Flask is the Perfect Framework for Startups?](/blogs/flask-for-startups)
+[Read Full Article](/blogs/flask-for-startups)
+[Web Development with Frameworks Like Django and Flask](/blogs/web-development-with-django-and-flask)
+[Web Development with Frameworks Like Django and Flask](/blogs/web-development-with-django-and-flask)
+[Read Full Article](/blogs/web-development-with-django-and-flask)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[Read Full Article](/blogs/flask-project-ideas)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Read Full Article](/blogs/hire-flask-developers)
+[Why Flask is the Perfect Framework for Startups?](/blogs/flask-for-startups)
+[Why Flask is the Perfect Framework for Startups?](/blogs/flask-for-startups)
+[Read Full Article](/blogs/flask-for-startups)
+[Web Development with Frameworks Like Django and Flask](/blogs/web-development-with-django-and-flask)
+[Web Development with Frameworks Like Django and Flask](/blogs/web-development-with-django-and-flask)
+[Read Full Article](/blogs/web-development-with-django-and-flask)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[7 Popular Real-World Projects You Can Build Using Flask](/blogs/flask-project-ideas)
+[Read Full Article](/blogs/flask-project-ideas)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Comprehensive Guide to Hire Flask Developers in 2024](/blogs/hire-flask-developers)
+[Read Full Article](/blogs/hire-flask-developers)
+[View All Blogs](/blogs)
+[Software Development](https://empiricinfotech.com/services/software-development-agency)
+[Web Development](https://empiricinfotech.com/services/web-development-company)
+[Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+[Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+[Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+[UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+[Ai Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+[n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+[Ai Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+[Voice Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+[Chatbot Development](https://empiricinfotech.com/services/chatbot-development)
+[Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+[Software Development](/services/software-development-agency)
+[Web Development](/services/web-development-company)
+[Blockchain Development](/services/blockchain-development-company)
+[Mobile App Development](/services/mobile-app-development-company)
+[Staff Augmentation](/services/staff-augmentation)
+[UI/UX Design](/services/ui-ux-design-services)
+[Ai Automation Services](/services/ai-automation-services)
+[n8n Workflow Automation](/services/n8n-workflow-automation)
+[Ai Agent Development](/services/ai-agent-development)
+[Voice Agent Development](/services/voice-agent-development)
+[Chatbot Development](/services/chatbot-development)
+[Generative AI Development](/services/generative-ai-development)
+[Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+[Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+[Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+[Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+[Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+[Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+[Hire ReactJS Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+[Hire AngularJS Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+[Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+[Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+[Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+[Hire Full Stack Developers](/hire/hire-full-stack-developers)
+[Hire Blockchain Developers](/hire/hire-blockchain-developers)
+[Hire Python Developers](/hire/hire-python-developers)
+[Hire Django Developers](/hire/hire-django-developers)
+[Hire Node.js Developers](/hire/hire-nodejs-developers)
+[Hire Next.js Developers](/hire/hire-nextjs-developers)
+[Hire ReactJS Developers](/hire/hire-reactjs-developers)
+[Hire AngularJS Developers](/hire/hire-angular-developers)
+[Hire Flutter Developers](/hire/hire-flutter-developers)
+[Hire FlutterFlow Developers](/hire/hire-flutterflow-developers)
+[Hire UI/UX Designers](/hire/hire-ui-ux-designers)
+[About Us](https://empiricinfotech.com/about-us)
+[Portfolio](https://empiricinfotech.com/portfolio)
+[Brochure](https://empiricinfotech.com/brochure)
+[Blogs](https://empiricinfotech.com/blogs)
+[Career](https://empiricinfotech.com/career)
+[FAQs](https://empiricinfotech.com/faqs)
+[About Us](/about-us)
+[Portfolio](/portfolio)
+[Brochure](/brochure)
+[Blogs](/blogs)
+[Career](/career)
+[FAQs](/faqs)
+[+91 7862 920292](https://wa.me/7862920292)
+[inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+[+91 6355 158315](https://wa.me/6355158315)
+[hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+[Contact Us](https://empiricinfotech.com/contact-us#contact_us_form)
+[Apply Here](https://empiricinfotech.com/contact-us#career_form)
+[305, Sumerru Business Corner, Near Rajhans Multiplex, Pal RTO, Surat, Gujarat - 395009](https://goo.gl/maps/qmX6PTHdv1yBQ7d9A)
+[Top Clutch Software Developers Utilities India](https://clutch.co/profile/empiric-infotech-llp#highlights)
+[Top Clutch Metaverse Development Company India 2023](https://clutch.co/profile/empiric-infotech-llp#highlights)
+[Linkedin](https://www.linkedin.com/company/empiric-infotech)
+[Instagram](https://www.instagram.com/empiricinfotech)
+[Facebook](https://www.facebook.com/empiricinfotech)
+[Twitter](https://twitter.com/EmpiricInfotech)
+[behance](https://www.behance.net/empiricinfotechllp)
+[dribbble](https://dribbble.com/EmpiricInfotechLLP)
+[Privacy Policy](/privacy-policy)
+[Sitemap](/empiric-sitemap)
+[Privacy Policy](/privacy-policy)

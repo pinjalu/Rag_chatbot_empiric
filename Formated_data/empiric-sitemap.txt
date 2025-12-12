@@ -1,0 +1,200 @@
+# Sitemap - Browse Our IT Services and Solutions at One Place
+
+## Page Overview
+
+**Title:** Sitemap - Browse Our IT Services and Solutions at One Place
+
+**Description:** Explore Empiric Infotech LLP's comprehensive sitemap for effortless browsing. Find all our IT services, solutions, and resources in one place.
+
+---
+
+## Introduction
+
+At Empiric Infotech LLP, we're dedicated to providing you with seamless navigation and easy access to all the information you need. Below is a comprehensive list of all the pages on our website, organized for your convenience.
+
+---
+
+## Main Pages
+
+- [Home](https://empiricinfotech.com/)
+- [About Us](https://empiricinfotech.com/about-us)
+- [Portfolio](https://empiricinfotech.com/portfolio)
+- [Brochure](https://empiricinfotech.com/brochure)
+- [Blogs](https://empiricinfotech.com/blogs)
+- [Career](https://empiricinfotech.com/career)
+- [FAQs](https://empiricinfotech.com/faqs)
+- [Contact Us](https://empiricinfotech.com/contact-us#contact_us_form)
+- [Sitemap](https://empiricinfotech.com/empiric-sitemap)
+- [Privacy Policy](https://empiricinfotech.com/privacy-policy)
+
+---
+
+## Development Services
+
+- [Software Development](https://empiricinfotech.com/services/software-development-agency)
+- [Web Development](https://empiricinfotech.com/services/web-development-company)
+- [Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+- [UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+- [Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+- [Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+
+---
+
+## AI Services
+
+- [AI Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+- [n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+- [AI Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+- [Voice AI Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+- [ChatBot Development](https://empiricinfotech.com/services/chatbot-development)
+- [Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+
+---
+
+## Hiring Services
+
+### Front-end Developers
+- [Hire React.js Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+- [Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+- [Hire Vue.js Developers](https://empiricinfotech.com/hire/hire-vuejs-developers)
+- [Hire Angular Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+
+### Back-end Developers
+- [Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+- [Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+- [Hire Flask Developers](https://empiricinfotech.com/hire/hire-flask-developers)
+- [Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+
+### Full Stack Developers
+- [Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+- [Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+- [Hire MERN Stack Developers](https://empiricinfotech.com/hire/hire-mern-stack-developers)
+- [Hire MEAN Stack Developers](https://empiricinfotech.com/hire/hire-mean-stack-developers)
+
+### Mobile Developers
+- [Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+- [Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+- [Hire Android Developers](https://empiricinfotech.com/hire/hire-android-developers)
+- [Hire iOS Developers](https://empiricinfotech.com/hire/hire-ios-developers)
+
+### No-Code/Low-Code Developers
+- [Hire Bubble.io Designers](https://empiricinfotech.com/hire/hire-bubbleio-developers)
+- [Hire WebFlow Designers](https://empiricinfotech.com/hire/hire-webflow-developers)
+
+### Other Services
+- [Hire Dedicated Developers](https://empiricinfotech.com/hire/hire-dedicated-developers)
+- [Hire Software Developers](https://empiricinfotech.com/hire/hire-software-developers)
+- [Hire Web Developers](https://empiricinfotech.com/hire/hire-freelance-web-developers)
+- [Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+
+---
+
+## Quick Links
+
+- [Book a Free Consultation](https://calendly.com/jaypal-b/30min)
+- [Get a Quote](https://empiricinfotech.com/contact-us#contact_us_form)
+- [View Portfolio](https://empiricinfotech.com/portfolio)
+- [Read Blogs](https://empiricinfotech.com/blogs)
+- [Career Opportunities](https://empiricinfotech.com/career)
+
+---
+
+## Contact Information
+
+- **Business Query:**
+  - Phone: [+91 7862 920292](https://wa.me/7862920292)
+  - Email: [inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+  - [Submit Inquiry](https://empiricinfotech.com/contact-us#contact_us_form)
+- **HR & Employment Verification:**
+  - Phone: [+91 6355 158315](https://wa.me/6355158315)
+  - Email: [hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+  - [Apply for Job](https://empiricinfotech.com/contact-us#career_form)
+  - [Current OpeningsApply Now](https://empiricinfotech.com/career#current-opening)
+
+---
+
+## Website Navigation
+
+- [Home](https://empiricinfotech.com/)
+- [About Us](https://empiricinfotech.com/about-us)
+- [Portfolio](https://empiricinfotech.com/portfolio)
+- [Brochure](https://empiricinfotech.com/brochure)
+- [Blogs](https://empiricinfotech.com/blogs)
+- [Career](https://empiricinfotech.com/career)
+- [FAQs](https://empiricinfotech.com/faqs)
+
+### Development Services
+- [Software Development](https://empiricinfotech.com/services/software-development-agency)
+- [Web Development](https://empiricinfotech.com/services/web-development-company)
+- [Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+- [UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+- [Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+- [Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+
+### AI Services
+- [AI Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+- [n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+- [AI Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+- [Voice AI Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+- [ChatBot Development](https://empiricinfotech.com/services/chatbot-development)
+- [Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+
+### Hiring Services
+- **Front-end**
+  - [Hire React.js Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+  - [Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+  - [Hire Vue.js Developers](https://empiricinfotech.com/hire/hire-vuejs-developers)
+  - [Hire Angular Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+- **Back-end**
+  - [Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+  - [Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+  - [Hire Flask Developers](https://empiricinfotech.com/hire/hire-flask-developers)
+  - [Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+- **Full Stack Developer**
+  - [Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+  - [Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+  - [Hire MERN Stack Developers](https://empiricinfotech.com/hire/hire-mern-stack-developers)
+  - [Hire MEAN Stack Developers](https://empiricinfotech.com/hire/hire-mean-stack-developers)
+- **Mobile**
+  - [Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+  - [Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+  - [Hire Android Developers](https://empiricinfotech.com/hire/hire-android-developers)
+  - [Hire iOS Developers](https://empiricinfotech.com/hire/hire-ios-developers)
+- **Other**
+  - [Hire Dedicated Developers](https://empiricinfotech.com/hire/hire-dedicated-developers)
+  - [Hire Software Developers](https://empiricinfotech.com/hire/hire-software-developers)
+  - [Hire Web Developers](https://empiricinfotech.com/hire/hire-freelance-web-developers)
+  - [Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+
+---
+
+## Social Media & External Links
+
+- [Linkedin](https://www.linkedin.com/company/empiric-infotech)
+- [Instagram](https://www.instagram.com/empiricinfotech)
+- [Facebook](https://www.facebook.com/empiricinfotech)
+- [Twitter](https://twitter.com/EmpiricInfotech)
+- [behance](https://www.behance.net/empiricinfotechllp)
+- [dribbble](https://dribbble.com/EmpiricInfotechLLP)
+- [Top Clutch Software Developers Utilities India](https://clutch.co/profile/empiric-infotech-llp#highlights)
+- [Top Clutch Metaverse Development Company India 2023](https://clutch.co/profile/empiric-infotech-llp#highlights)
+- [Google Maps Address](https://goo.gl/maps/qmX6PTHdv1yBQ7d9A)
+
+---
+
+## Legal & Policy Pages
+
+- [Privacy Policy](https://empiricinfotech.com/privacy-policy)
+- [Sitemap](https://empiricinfotech.com/empiric-sitemap)
+
+---
+
+## Cookie Policy Notice
+
+We use cookies to enhance your experience. We use cookies and similar technologies to help personalize content, provide social media features, and analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners. Read our [Privacy Policy](https://empiricinfotech.com/privacy-policy).
+
+---
+
+## Copyright Information
+
+Copyright © 2025. All Rights Reserved by Empiric Infotech LLP.
