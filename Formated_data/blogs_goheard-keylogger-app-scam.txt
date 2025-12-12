@@ -1,0 +1,209 @@
+# Scam Alert - Beware of Goheard keylogger App Scam
+
+## Blog Overview
+
+**Title:** Scam Alert - Beware of Goheard keylogger App Scam
+
+**Description:** Have you heard about the Goheard scam? Let's understand what this 'Goheard' keylogger scam is all about and how you can keep yourself safe from it.
+
+**Category:** Web Development
+
+**Published Date:** May 14, 2024
+
+---
+
+## Table of Contents
+
+1. Introduction
+2. Understanding the Goheard Scam in Simple Terms
+3. How Does This Scam Work?
+4. How We Found This Might a Scam
+5. How Can You Protect Yourself?
+   - Be careful with unexpected emails
+   - Don't download unfamiliar apps
+   - Use antivirus software
+   - Check if a website is legitimate
+6. What To Do If You Already Downloaded Goheard
+   - Disconnect!
+   - Uninstall!
+   - Change passwords!
+   - Enable 2-step authentication
+7. Why Choose Empiric Infotech LLP?
+
+---
+
+## Introduction
+
+As we use more and more new technologies in today's digital world, the chances of getting tricked by scams also go up. Scams are growing every day. After the "[child_process scam](https://empiricinfotech.com/blogs/child-process-scam/39)", we've now noticed another scam called the 'Goheard' keylogger scam. Let's understand what this 'Goheard' keylogger scam is all about and how you can keep yourself safe from it.
+
+---
+
+## Understanding the Goheard Scam in Simple Terms
+
+'Goheard' is a website that claims to be useful for meetings, calls, and chats with AI-based translator apps. But, many online security platforms have marked it as a possible scam. The trust scores of the goheard.io and goheard.us sites are very low, which means there could be a risk. So, be careful when dealing with these sites. Here is the [result of the Scamadviser site for the goheard.io site](https://www.scamadviser.com/check-website/goheard.io).
+
+---
+
+## How Does This Scam Work?
+
+The scam usually starts with an email from what looks like a trustworthy company. The email is well-written and convincing, making many people believe it's real.
+
+This email includes a link to the 'Goheard' app. When you download this app, it doesn't seem to do anything, but it actually works as a keylogger.
+
+A keylogger is a kind of software that records what you type (also, capable of taking screenshots, URL of the page & many more), which could include sensitive information like passwords and credit card numbers.
+
+---
+
+## How We Found This Might a Scam
+
+They posted a job in the marketplace apps, invited us and many others. We accepted their invitation and started chatting with them. They asked to have a call for further discussion, so we shared a Zoom link. They agreed to join, but when we shared the link, they showed an edited screenshot (as shown below) saying they had trouble joining the Zoom meeting.
+
+We then suggested connecting via Google Meet, but they refused, saying they couldn't join us on Google Meet for security reasons. Then they sent a link to the Goheard website and asked us to have a call through this app. Now we feel this is something unusual so we follow the following steps to check whether the site is genuine or not.
+
+---
+
+## How Can You Protect Yourself?
+
+### Be careful with unexpected emails
+
+If you get an email from an unknown person or even from someone you know but with a strange request, be suspicious.
+
+### Don't download unfamiliar apps
+
+If an email or message asks you to download an app from a provided link, it's better to avoid it. Only download apps from trusted & known sites/stores like the Google Play Store or Apple App Store.
+
+### Use antivirus software
+
+Keep your devices safe with up-to-date antivirus software. This can help find and stop harmful software like keyloggers.
+
+### Check if a website is legitimate
+
+Before you use a website, check if it's legitimate. Websites like Scam Detector and Scamadviser can give a trust score for websites. You can also check how old the website is. Just search for domain lookup on Google, and you can find sites like whois.com. It shows information about the domain like when it was registered and when it will expire, who registered it, and so on.
+
+If the domain was registered recently, you should think twice before doing anything on the site. Here you can see, the goheard.io domain was registered recently for one year.
+
+**Source:** [https://www.whois.com/whois/goheard.io](https://www.whois.com/whois/goheard.io)
+
+---
+
+## What To Do If You Already Downloaded Goheard
+
+### Disconnect!
+
+Immediately turn off your Wi-Fi and data to prevent the app from sending stolen information.
+
+### Uninstall!
+
+Delete Goheard from your computer.
+
+### Change passwords!
+
+If you think your login details might be stolen, change the passwords for your email, bank accounts, and any other important online services.
+
+### Enable 2-step authentication
+
+Consider enabling two-step authentication (also known as 2FA) for your online accounts. This adds an extra layer of security by requiring a second verification step (such as a text message or authentication app) in addition to your password.
+
+By doing so, you can better protect your accounts from unauthorized access. Remember to enable 2FA for all relevant services, including email, social media, and financial accounts.
+
+---
+
+## Why Choose Empiric Infotech LLP?
+
+At Empiric Infotech LLP, we save millions for our clients by preventing them from falling into scams like these. Our [custom software development solutions](https://empiricinfotech.com/services/software-development-agency) are designed to keep your business secure and efficient.
+
+### Proven Track Record
+
+We have a history of protecting our clients from digital threats while enhancing their operational efficiency.
+
+### Tailored Solutions
+
+Our team works closely with you to develop software that meets your specific needs and business goals.
+
+### Expert Team
+
+Our experienced developers and cybersecurity experts ensure your software is robust and secure.
+
+Don't wait until it's too late. [Schedule a discovery call with us today](https://calendly.com/jaypal-b/30min) to discuss your software development needs and find out how we can help protect your business from scams and other online threats. Let's build a safer digital future together!
+
+---
+
+## Related Blogs
+
+- **December 04, 2024** - [Why Flask is the Perfect Framework for Startups?](https://empiricinfotech.com/blogs/flask-for-startups)
+- **July 29, 2024** - [Web Development with Frameworks Like Django and Flask](https://empiricinfotech.com/blogs/web-development-with-django-and-flask)
+- **June 28, 2024** - [7 Popular Real-World Projects You Can Build Using Flask](https://empiricinfotech.com/blogs/flask-project-ideas)
+- **June 20, 2024** - [Comprehensive Guide to Hire Flask Developers in 2024](https://empiricinfotech.com/blogs/hire-flask-developers)
+
+[View All Blogs](https://empiricinfotech.com/blogs)
+
+---
+
+## Key Links
+
+- [Hire Developer](https://calendly.com/jaypal-b/30min)
+- [Book a Free Consultation](https://calendly.com/jaypal-b/30min)
+- [Contact Us](https://empiricinfotech.com/contact-us#contact_us_form)
+
+---
+
+## Contact Information
+
+**Business Query:**
+- **Phone:** [+91 7862 920292](https://wa.me/7862920292)
+- **Email:** [inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+- [Submit Inquiry](https://empiricinfotech.com/contact-us#contact_us_form)
+
+**HR & Employment Verification:**
+- **Phone:** [+91 6355 158315](https://wa.me/6355158315)
+- **Email:** [hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+- [Apply for Job](https://empiricinfotech.com/contact-us#career_form)
+- [Current Openings](https://empiricinfotech.com/career#current-opening)
+
+**Address:**
+[305, Sumerru Business Corner, Near Rajhans Multiplex, Pal RTO, Surat, Gujarat - 395009](https://goo.gl/maps/qmX6PTHdv1yBQ7d9A)
+
+---
+
+## Website Navigation
+
+- [About Us](https://empiricinfotech.com/about-us)
+- [Portfolio](https://empiricinfotech.com/portfolio)
+- [Brochure](https://empiricinfotech.com/brochure)
+- [Blogs](https://empiricinfotech.com/blogs)
+- [Career](https://empiricinfotech.com/career)
+- [FAQs](https://empiricinfotech.com/faqs)
+
+---
+
+## Social Media & External Links
+
+- [LinkedIn](https://www.linkedin.com/company/empiric-infotech)
+- [Instagram](https://www.instagram.com/empiricinfotech)
+- [Facebook](https://www.facebook.com/empiricinfotech)
+- [Twitter](https://twitter.com/EmpiricInfotech)
+- [Behance](https://www.behance.net/empiricinfotechllp)
+- [Dribbble](https://dribbble.com/EmpiricInfotechLLP)
+- [Top Clutch Software Developers Utilities India](https://clutch.co/profile/empiric-infotech-llp#highlights)
+- [Top Clutch Metaverse Development Company India 2023](https://clutch.co/profile/empiric-infotech-llp#highlights)
+
+---
+
+## Legal & Policy Pages
+
+- [Privacy Policy](https://empiricinfotech.com/privacy-policy)
+- [Sitemap](https://empiricinfotech.com/empiric-sitemap)
+
+---
+
+## Cookie Policy Notice
+
+We use cookies and similar technologies to help personalize content, provide social media features, and analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners.
+
+[Read our Privacy Policy](https://empiricinfotech.com/privacy-policy)
+
+---
+
+## Copyright Information
+
+**Copyright © 2025.** All Rights Reserved by **Empiric Infotech LLP**

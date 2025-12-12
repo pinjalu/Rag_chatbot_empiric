@@ -1,0 +1,248 @@
+# Evento - Events Booking Platform
+
+## Page Overview
+
+**Title:** Evento - Events Booking Platform
+
+**Description:** Check how Empiric Infotech built a Evento - events booking platform supports efficient category-based and time-slot-based service booking, providing users with flexibility in scheduling their events.
+
+---
+
+## Project Details
+
+- **Location:** UAE
+- **Industry:** Beauty and Wellness
+- **Platform:** Web Application
+- **Team:** 2 Members
+
+---
+
+## Project Background
+
+The "Evento" project presents a comprehensive platform for both service owners and users. Service owners can create and manage events, and detailed profiles, ensuring accurate information about event names, descriptions, and pricing.
+
+Users enjoy the convenience of easy booking cancellations and can provide reasons for cancellations. The platform supports efficient category-based and time-slot-based service booking, providing users with flexibility in scheduling their events.
+
+---
+
+## Business Needs
+
+The Evento project is centered around identifying and securing an optimal venue for hosting salon services, body massages, and makeup-related events.
+
+The venue selection process prioritizes maximizing accessibility for potential clients while ensuring compliance with local regulations and aligning with preferences in the beauty and wellness industry.
+
+---
+
+## Tech Stacks
+
+### Database
+- Firebase
+
+### Frontend Framework
+- Next.js
+
+### UI Framework
+- Chakra UI
+
+---
+
+## Services Provided
+
+- Database Design
+- Back-End Development
+- UI/UX Design
+- QA Testing
+- Front-End Development
+
+---
+
+## Project Challenges
+
+### Accurate User Location Identification
+
+Identifying the user's current location accurately can be challenging, especially in cases where GPS data is unreliable or when users access the booking platform remotely. Overcoming this challenge is essential for providing location-based services and targeted marketing.
+
+### Secure Payment Integration
+
+Integrating a secure and user-friendly payment system for booking the stadium slots can be complex. Ensuring that the payment gateway is robust, compliant with payment regulations, and accessible to users can be a significant challenge.
+
+### Efficient Slot Booking System
+
+Providing an efficient slot booking system that allows users to reserve Stadium courts at their preferred times while avoiding conflicts and double bookings can be a logistical challenge. It's crucial to implement a seamless and user-friendly interface for this purpose.
+
+---
+
+## Strategy and Solutions
+
+### Manage Service
+
+#### Service Creation
+
+While, in their supplier role, can create a detailed profile for their respective services. This profile includes essential information about the facility, category and subcategory, and pricing.
+
+#### Update and Delete
+
+Owners have the ability to update and maintain their services, ensuring that all information remains accurate and up-to-date. They can also delete their profiles if necessary.
+
+### Manage Booking
+
+#### Booking Cancellation (User)
+
+Normal users can cancel their service bookings with a valid reason, making it convenient for them to adjust their plans when needed.
+
+#### Booking Management (Supplier)
+
+Suppliers have control over bookings and can take actions such as accepting, completing, or canceling bookings. This feature allows suppliers to efficiently manage their service reservations.
+
+### Service Booking
+
+#### Category-Based Booking
+
+Users can book services according to predefined categories and subcategories.
+
+#### Time Slot Booking
+
+Booking is done in hourly time slots, allowing users to reserve the service for a specific duration.
+
+---
+
+## Let's Discuss Your Project
+
+Have an idea or challenge in mind? Let's turn it into something exceptional. Whether you're planning a website, custom app, or simply need help with your tech setup - we are here to support you from concept to launch. Ready to build something great together? Let's connect.
+
+[Book 30-Min Call](https://calendly.com/jaypal-b/30min)
+
+---
+
+## Other Works
+
+Explore some of the best solutions that we created to offer a best-in-class user experience.
+
+### Adil Alrooh
+
+Adil Alrooh is an application that acts as a smart financial advisor that enables you to access financial comfort smartly and innovatively, by dividing your monthly income into balanced core portfolios, which enables you to reach financial comfort, in case you commit to each portfolio.
+
+**Platform:** Web & Mobile Application  
+**Industry:** Business Landing Page
+
+[View Project](/portfolio/adil-alrooh/5)
+
+### Hall of Fame
+
+Hall of Fame is a platform where users and celebrities can seamlessly connect to book services. It allows celebrities to showcase their services, while users can easily browse, schedule, and book these services.
+
+**Platform:** Web Application  
+**Industry:** Online Services Booking Platform
+
+[View Project](/portfolio/hall-of-frame/11)
+
+### Noundry Gallery
+
+Noundry Gallery is a DAOApp where the traits for NFTs are made by their own users and community members. It offers services for users, to upload, manage, and edit their Traits, and Profile and make a really good network around the world in the Nouns community.
+
+**Platform:** Web Application  
+**Industry:** Non-Fungible Tokens
+
+[View Project](/portfolio/nouns-gallery/12)
+
+---
+
+## Contact Information
+
+- **Business Query:**
+  - Phone: [+91 7862 920292](https://wa.me/7862920292)
+  - Email: [inquire@empiricinfotech.com](mailto:inquire@empiricinfotech.com)
+  - [Submit Inquiry](/contact-us#contact_us_form)
+- **HR & Employment Verification:**
+  - Phone: [+91 6355 158315](https://wa.me/6355158315)
+  - Email: [hr@empiricinfotech.com](mailto:hr@empiricinfotech.com)
+  - [Apply for Job](/contact-us#career_form)
+  - [Current OpeningsApply Now](/career#current-opening)
+
+---
+
+## Website Navigation
+
+- [Home](https://empiricinfotech.com/)
+- [About Us](https://empiricinfotech.com/about-us)
+- [Portfolio](https://empiricinfotech.com/portfolio)
+- [Brochure](https://empiricinfotech.com/brochure)
+- [Blogs](https://empiricinfotech.com/blogs)
+- [Career](https://empiricinfotech.com/career)
+- [FAQs](https://empiricinfotech.com/faqs)
+
+### Development Services
+- [Software Development](https://empiricinfotech.com/services/software-development-agency)
+- [Web Development](https://empiricinfotech.com/services/web-development-company)
+- [Mobile App Development](https://empiricinfotech.com/services/mobile-app-development-company)
+- [UI/UX Design](https://empiricinfotech.com/services/ui-ux-design-services)
+- [Staff Augmentation](https://empiricinfotech.com/services/staff-augmentation)
+- [Blockchain Development](https://empiricinfotech.com/services/blockchain-development-company)
+
+### AI Services
+- [AI Automation Services](https://empiricinfotech.com/services/ai-automation-services)
+- [n8n Workflow Automation](https://empiricinfotech.com/services/n8n-workflow-automation)
+- [AI Agent Development](https://empiricinfotech.com/services/ai-agent-development)
+- [Voice AI Agent Development](https://empiricinfotech.com/services/voice-agent-development)
+- [ChatBot Development](https://empiricinfotech.com/services/chatbot-development)
+- [Generative AI Development](https://empiricinfotech.com/services/generative-ai-development)
+
+### Hiring Services
+- **Front-end**
+  - [Hire React.js Developers](https://empiricinfotech.com/hire/hire-reactjs-developers)
+  - [Hire Next.js Developers](https://empiricinfotech.com/hire/hire-nextjs-developers)
+  - [Hire Vue.js Developers](https://empiricinfotech.com/hire/hire-vuejs-developers)
+  - [Hire Angular Developers](https://empiricinfotech.com/hire/hire-angular-developers)
+- **Back-end**
+  - [Hire Python Developers](https://empiricinfotech.com/hire/hire-python-developers)
+  - [Hire Django Developers](https://empiricinfotech.com/hire/hire-django-developers)
+  - [Hire Flask Developers](https://empiricinfotech.com/hire/hire-flask-developers)
+  - [Hire Node.js Developers](https://empiricinfotech.com/hire/hire-nodejs-developers)
+- **Full Stack Developer**
+  - [Hire Full Stack Developers](https://empiricinfotech.com/hire/hire-full-stack-developers)
+  - [Hire Blockchain Developers](https://empiricinfotech.com/hire/hire-blockchain-developers)
+  - [Hire MERN Stack Developers](https://empiricinfotech.com/hire/hire-mern-stack-developers)
+  - [Hire MEAN Stack Developers](https://empiricinfotech.com/hire/hire-mean-stack-developers)
+- **Mobile**
+  - [Hire Flutter Developers](https://empiricinfotech.com/hire/hire-flutter-developers)
+  - [Hire FlutterFlow Developers](https://empiricinfotech.com/hire/hire-flutterflow-developers)
+  - [Hire Android Developers](https://empiricinfotech.com/hire/hire-android-developers)
+  - [Hire iOS Developers](https://empiricinfotech.com/hire/hire-ios-developers)
+- **Other**
+  - [Hire Dedicated Developers](https://empiricinfotech.com/hire/hire-dedicated-developers)
+  - [Hire Software Developers](https://empiricinfotech.com/hire/hire-software-developers)
+  - [Hire Web Developers](https://empiricinfotech.com/hire/hire-freelance-web-developers)
+  - [Hire UI/UX Designers](https://empiricinfotech.com/hire/hire-ui-ux-designers)
+
+---
+
+## Social Media & External Links
+
+- [Linkedin](https://www.linkedin.com/company/empiric-infotech)
+- [Instagram](https://www.instagram.com/empiricinfotech)
+- [Facebook](https://www.facebook.com/empiricinfotech)
+- [Twitter](https://twitter.com/EmpiricInfotech)
+- [behance](https://www.behance.net/empiricinfotechllp)
+- [dribbble](https://dribbble.com/EmpiricInfotechLLP)
+- [Top Clutch Software Developers Utilities India](https://clutch.co/profile/empiric-infotech-llp#highlights)
+- [Top Clutch Metaverse Development Company India 2023](https://clutch.co/profile/empiric-infotech-llp#highlights)
+- [Google Maps Address](https://goo.gl/maps/qmX6PTHdv1yBQ7d9A)
+
+---
+
+## Legal & Policy Pages
+
+- [Privacy Policy](https://empiricinfotech.com/privacy-policy)
+- [Sitemap](https://empiricinfotech.com/empiric-sitemap)
+
+---
+
+## Cookie Policy Notice
+
+We use cookies to enhance your experience. We use cookies and similar technologies to help personalize content, provide social media features, and analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners. Read our [Privacy Policy](https://empiricinfotech.com/privacy-policy).
+
+---
+
+## Copyright Information
+
+Copyright © 2025. All Rights Reserved by Empiric Infotech LLP.
